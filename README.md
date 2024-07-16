@@ -19,7 +19,7 @@
 
 ---
 
-### My projects.
+### My projects:
 
 ### React:
 - [Dota2](https://github.com/LifanovSer/dota-2-project)
