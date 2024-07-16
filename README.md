@@ -26,7 +26,7 @@
 
 ### React + TypeScript:
 - [Test with a variety of types of answers](https://github.com/LifanovSer/test-for-school)
-- [Custom kanban desk](https://github.com/Stepashkin63/Spring-Web-Application)
+- [Custom kanban desk](https://github.com/LifanovSer/kanban)
 
 ### HTML + CSS + JavaScript
 - [Cyberpunk 2077](https://github.com/LifanovSer/projectCyberPunk)
