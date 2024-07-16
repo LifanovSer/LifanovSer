@@ -29,5 +29,5 @@
 - [Custom kanban desk](https://github.com/Stepashkin63/Spring-Web-Application)
 
 ### HTML + CSS + JavaScript
-[Cyberpunk 2077](https://github.com/LifanovSer/projectCyberPunk)
-[Traveling to the mountains of Tibet](https://github.com/LifanovSer/project-rumTibet)
+- [Cyberpunk 2077](https://github.com/LifanovSer/projectCyberPunk)
+- [Traveling to the mountains of Tibet](https://github.com/LifanovSer/project-rumTibet)
